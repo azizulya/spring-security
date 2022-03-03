@@ -13,7 +13,7 @@ public class ConfigCar {
         return c;
     }
 
-    //Direct wiring
+// //   Direct wiring
 //    @Bean
 //    Person person(){
 //        Person p = new Person();
