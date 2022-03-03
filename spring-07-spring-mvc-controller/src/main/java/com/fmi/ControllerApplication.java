@@ -1,4 +1,4 @@
-package com.fmi.spring07springmvccontroller;
+package com.fmi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
